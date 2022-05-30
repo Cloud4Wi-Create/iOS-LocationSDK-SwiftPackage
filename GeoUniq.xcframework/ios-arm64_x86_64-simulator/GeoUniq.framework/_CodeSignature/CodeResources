@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wgv75bGZLtHgNREULk4b+1ng0CY=
+		S4T+xKRF92G6BBF+PmrEvxBJsS8=
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Tf1WdQFd3wJ/DyEXltyfskciDnY=
+		8wwKpnYgNnWMnhSWtLF5LmcdFVk=
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ep6vNl3Zkf4LtVZNQ7S4BXXUpng=
+		sc5lBdHfs1ps8gom1xytFPHRrsQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -184,7 +184,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nhAcMYAu36wFk+286NuF0Mcolpvcjik41GN2MMNLvLw=
+			tDdyLya5/9omHWb/ZpteBf6x/POAOIO2ov4pU/Gb/cc=
 			</data>
 		</dict>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -205,7 +205,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sSuJIwLudwy6VA7tzOVqiIzrmYRTVJN16kF9PwDqV9A=
+			hP7SWU4ngN9n/yHQ5bggaQKcqL3w7EdR/6QztqzYl5k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
