@@ -6,6 +6,6 @@ framework module GeoUniq {
 }
 
 module GeoUniq.Swift {
-    header "GeoUniq-Swift.h"
-    requires objc
+  header "GeoUniq-Swift.h"
+  requires objc
 }
