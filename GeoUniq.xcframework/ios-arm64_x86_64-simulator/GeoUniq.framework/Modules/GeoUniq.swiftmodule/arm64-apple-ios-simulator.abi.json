@@ -51886,820 +51886,827 @@
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
+      "kind": "StringLiteral",
+      "offset": 1200,
+      "length": 24,
+      "value": "\"GUValueLocationService\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 1225,
+      "offset": 1292,
       "length": 4,
       "value": "68.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 1284,
+      "offset": 1351,
       "length": 4,
       "value": "50.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 1329,
+      "offset": 1396,
       "length": 4,
       "value": "25.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 1374,
+      "offset": 1441,
       "length": 5,
       "value": "111.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1432,
+      "offset": 1499,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 1437,
+      "offset": 1504,
       "length": 4,
       "value": "60.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 1504,
+      "offset": 1571,
       "length": 19,
       "value": "\"GUTrackingEnabled\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 1562,
+      "offset": 1629,
       "length": 25,
       "value": "\"GUTrackingEnabledUpdate\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 1632,
+      "offset": 1699,
       "length": 31,
       "value": "\"GUStartingTrackingGranularity\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 1724,
+      "offset": 1791,
       "length": 46,
       "value": "\"NSLocationAlwaysAndWhenInUseUsageDescription\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 1807,
+      "offset": 1874,
       "length": 37,
       "value": "\"NSLocationWhenInUseUsageDescription\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 1892,
+      "offset": 1959,
       "length": 34,
       "value": "\"NSLocationAlwaysUsageDescription\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 1971,
+      "offset": 2038,
       "length": 26,
       "value": "\"NSMotionUsageDescription\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2037,
+      "offset": 2104,
       "length": 24,
       "value": "\"GUAskedPopupPermission\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2092,
+      "offset": 2159,
       "length": 10,
       "value": "\"clientId\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2136,
+      "offset": 2203,
       "length": 18,
       "value": "\"GUModuleClientId\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2190,
+      "offset": 2257,
       "length": 22,
       "value": "\"GUModuleClientSecret\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2257,
+      "offset": 2324,
       "length": 20,
       "value": "\"GUModuleClientIdEn\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2324,
+      "offset": 2391,
       "length": 24,
       "value": "\"GUModuleClientSecretEn\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2375,
+      "offset": 2442,
       "length": 23,
       "value": "\"GUClientAppIdDeviceId\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2416,
+      "offset": 2483,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2443,
+      "offset": 2510,
       "length": 7,
       "value": "\"items\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2469,
+      "offset": 2536,
       "length": 5,
       "value": "\"lat\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2493,
+      "offset": 2560,
       "length": 5,
       "value": "\"lng\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2523,
+      "offset": 2590,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2564,
+      "offset": 2631,
       "length": 15,
       "value": "\"GUTokenClient\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2623,
+      "offset": 2690,
       "length": 29,
       "value": "\"GUTokenClientExpirationDate\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2684,
+      "offset": 2751,
       "length": 18,
       "value": "\"GUTokenMobileKey\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2750,
+      "offset": 2817,
       "length": 32,
       "value": "\"GUTokenMobileKeyExpirationDate\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2807,
+      "offset": 2874,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2838,
+      "offset": 2905,
       "length": 6,
       "value": "\"Deny\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 2866,
+      "offset": 2933,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3009,
+      "offset": 3076,
       "length": 26,
       "value": "\"geouniq.com.default.user\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3062,
+      "offset": 3129,
       "length": 4,
       "value": "\"OK\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3094,
+      "offset": 3161,
       "length": 7,
       "value": "\"Allow\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3131,
+      "offset": 3198,
       "length": 20,
       "value": "\"GUSendingLocations\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3183,
+      "offset": 3250,
       "length": 13,
       "value": "\"GUIdLastGet\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3237,
+      "offset": 3304,
       "length": 22,
       "value": "\"timeOverThreshold2.0\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3307,
+      "offset": 3374,
       "length": 34,
       "value": "\"GUdeviceTokenRemoteNotifications\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3385,
+      "offset": 3452,
       "length": 26,
       "value": "\"ApplicationStateInternal\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3450,
+      "offset": 3517,
       "length": 24,
       "value": "\"regionsTrackerAdaptive\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3501,
+      "offset": 3568,
       "length": 12,
       "value": "\"slcTracker\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3536,
+      "offset": 3603,
       "length": 7,
       "value": "\"label\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3588,
+      "offset": 3655,
       "length": 37,
       "value": "\"GUrequestedMotionActivityPermission\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3651,
+      "offset": 3718,
       "length": 10,
       "value": "\"activity\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3684,
+      "offset": 3751,
       "length": 9,
       "value": "\"classes\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3736,
+      "offset": 3803,
       "length": 25,
       "value": "\"MotionTriggerRegistered\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 3793,
+      "offset": 3860,
       "length": 17,
       "value": "\"CurrentActivity\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 3851,
+      "offset": 3918,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 3894,
+      "offset": 3961,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 3959,
+      "offset": 4026,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4011,
+      "offset": 4078,
       "length": 24,
       "value": "\"GULastActivityDetected\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4078,
+      "offset": 4145,
       "length": 28,
       "value": "\"GULastActivityDetectedWhen\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4138,
+      "offset": 4205,
       "length": 14,
       "value": "\"GUDailyCheck\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4178,
+      "offset": 4245,
       "length": 10,
       "value": "\"location\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4227,
+      "offset": 4294,
       "length": 24,
       "value": "\"GUNotDeterminedAuthApp\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4279,
+      "offset": 4346,
       "length": 13,
       "value": "\"GUMobileKey\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4329,
+      "offset": 4396,
       "length": 23,
       "value": "\"GUMobileKeyRegistered\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4391,
+      "offset": 4458,
       "length": 15,
       "value": "\"GUMobileKeyEn\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4454,
+      "offset": 4521,
       "length": 25,
       "value": "\"GUMobileKeyRegisteredEn\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "IntegerLiteral",
-      "offset": 4522,
+      "offset": 4589,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 4569,
+      "offset": 4636,
       "length": 6,
       "value": "1500.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "IntegerLiteral",
-      "offset": 4608,
+      "offset": 4675,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 4613,
+      "offset": 4680,
       "length": 3,
       "value": "3.6"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 4658,
+      "offset": 4725,
       "length": 4,
       "value": "15.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "IntegerLiteral",
-      "offset": 4665,
+      "offset": 4732,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4696,
+      "offset": 4763,
       "length": 16,
       "value": "\"GUDisablePopUp\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4745,
+      "offset": 4812,
       "length": 19,
       "value": "\"GUDisablePrePopUp\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4811,
+      "offset": 4878,
       "length": 30,
       "value": "\"GULastDateRegionRegistration\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4879,
+      "offset": 4946,
       "length": 22,
       "value": "\"GUServerStoredModule\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4935,
+      "offset": 5002,
       "length": 19,
       "value": "\"GUWorkingTracking\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 4991,
+      "offset": 5058,
       "length": 30,
       "value": "\"GURealTimeStreamingStreaming\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "FloatLiteral",
-      "offset": 5063,
+      "offset": 5130,
       "length": 5,
       "value": "500.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5114,
+      "offset": 5181,
       "length": 27,
       "value": "\"SecondLastTrackedLocation\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5185,
+      "offset": 5252,
       "length": 24,
       "value": "\"lastAdaptiveSpeeStored\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5257,
+      "offset": 5324,
       "length": 31,
       "value": "\"lastAdaptiveGranularityStored\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5330,
+      "offset": 5397,
       "length": 23,
       "value": "\"GUDebugLogDevelopment\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5406,
+      "offset": 5473,
       "length": 34,
       "value": "\"GUDebugLogDevelopmentShowConsole\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5484,
+      "offset": 5551,
       "length": 28,
       "value": "\"GUForwardingLocationsQueue\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5556,
+      "offset": 5623,
       "length": 31,
       "value": "\"GUSemaphorForwardingLocations\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5640,
+      "offset": 5707,
       "length": 39,
       "value": "\"GUElapsingSemaphorForwardingLocations\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5724,
+      "offset": 5791,
       "length": 27,
       "value": "\"GUTimeTriedRegAgainModule\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5782,
+      "offset": 5849,
       "length": 16,
       "value": "\"GUStartingDate\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5825,
+      "offset": 5892,
       "length": 10,
       "value": "\"customId\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5866,
+      "offset": 5933,
       "length": 16,
       "value": "\"GuGeofenceList\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5909,
+      "offset": 5976,
       "length": 14,
       "value": "\"GuGeofenceId\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 5956,
+      "offset": 6023,
       "length": 18,
       "value": "\"GuConsentsStatus\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6012,
+      "offset": 6079,
       "length": 17,
       "value": "\"GuCustomization\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6062,
+      "offset": 6129,
       "length": 12,
       "value": "\"GuAnalisys\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6103,
+      "offset": 6170,
       "length": 8,
       "value": "\"GuUIID\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6147,
+      "offset": 6214,
       "length": 22,
       "value": "\"GuConsentsPopupStyle\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6263,
+      "offset": 6330,
       "length": 16,
       "value": "\"GuPrivacyTitle\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6324,
+      "offset": 6391,
       "length": 19,
       "value": "\"GuPrivacySubtitle\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6384,
+      "offset": 6451,
       "length": 15,
       "value": "\"GuPrivacyBody\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6440,
+      "offset": 6507,
       "length": 15,
       "value": "\"GuPrivacyTerm\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6500,
+      "offset": 6567,
       "length": 18,
       "value": "\"GuPrivacyTermUrl\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6561,
+      "offset": 6628,
       "length": 17,
       "value": "\"GuPrivacyAccept\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6614,
+      "offset": 6681,
       "length": 26,
       "value": "\"GuPrivacyAcceptTextColor\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6686,
+      "offset": 6753,
       "length": 19,
       "value": "\"GuPrivacyMoreInfo\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6744,
+      "offset": 6811,
       "length": 26,
       "value": "\"GuPrivacyBackgroundColor\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6811,
+      "offset": 6878,
       "length": 32,
       "value": "\"GuPrivacyAcceptBackgroundColor\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6877,
+      "offset": 6944,
       "length": 20,
       "value": "\"GuPrivacyTextColor\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 6931,
+      "offset": 6998,
       "length": 26,
       "value": "\"GuPrivacyAndConsentImage\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7028,
+      "offset": 7095,
       "length": 16,
       "value": "\"GuConsentTitle\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7089,
+      "offset": 7156,
       "length": 19,
       "value": "\"GuConsentSubtitle\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7164,
+      "offset": 7231,
       "length": 29,
       "value": "\"GuConsentCustomizationTitle\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7248,
+      "offset": 7315,
       "length": 28,
       "value": "\"GuConsentCustomizationBody\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7327,
+      "offset": 7394,
       "length": 24,
       "value": "\"GuConsentAnalisysTitle\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7401,
+      "offset": 7468,
       "length": 23,
       "value": "\"GuConsentAnalisysBody\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7465,
+      "offset": 7532,
       "length": 15,
       "value": "\"GuConsentSave\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7519,
+      "offset": 7586,
       "length": 30,
       "value": "\"GuConsentSaveBackgroundColor\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7583,
+      "offset": 7650,
       "length": 24,
       "value": "\"GuConsentSaveTextColor\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7646,
+      "offset": 7713,
       "length": 26,
       "value": "\"GuConsentBackgroundColor\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7706,
+      "offset": 7773,
       "length": 20,
       "value": "\"GuConsentTextColor\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7762,
+      "offset": 7829,
       "length": 22,
       "value": "\"GuConsentSwitchColor\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7863,
+      "offset": 7930,
       "length": 22,
       "value": "\"GuPrivacyTitle-media\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Costants.swift",
       "kind": "StringLiteral",
-      "offset": 7933,
+      "offset": 8000,
       "length": 25,
       "value": "\"GuPrivacySubtitle-media\""
     },
@@ -53910,7 +53917,7 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GeoLocationStatusModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4425,
+      "offset": 4519,
       "length": 1,
       "value": "0"
     },
@@ -56249,489 +56256,503 @@
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
       "offset": 219,
-      "length": 36,
-      "value": "\"https:\/\/operations.geouniq.com\/v2\/\""
+      "length": 14,
+      "value": "\"GEO_API_BASE\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 291,
-      "length": 39,
-      "value": "\"https:\/\/auth.geouniq.com\/oauth2\/token\""
+      "offset": 261,
+      "length": 14,
+      "value": "\"GEO_API_AUTH\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 369,
+      "offset": 308,
+      "length": 19,
+      "value": "\"GEO_API_ANALYTICS\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 368,
+      "length": 32,
+      "value": "\"https:\/\/operations.geouniq.com\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 440,
+      "length": 26,
+      "value": "\"https:\/\/auth.geouniq.com\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 25,
+      "value": "\"https:\/\/api.geouniq.com\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 572,
+      "length": 58,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 603,
+      "length": 1,
+      "value": "\"\/analytics\/consent_actions\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 668,
+      "length": 40,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 699,
+      "length": 1,
+      "value": "\"\/modules\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 735,
+      "length": 40,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 766,
+      "length": 1,
+      "value": "\"\/modules\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 805,
+      "length": 43,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 836,
+      "length": 1,
+      "value": "\"\/client-app\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
+      "kind": "StringLiteral",
+      "offset": 879,
       "length": 11,
       "value": "\"positions\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 409,
-      "length": 42,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
-      "kind": "StringLiteral",
-      "offset": 425,
-      "length": 9,
-      "value": "\"analytics\/consent_actions\""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
-      "kind": "StringLiteral",
-      "offset": 485,
-      "length": 36,
-      "value": "\"https:\/\/api.geouniq.com\/v1\/devices\""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
-      "kind": "StringLiteral",
-      "offset": 569,
-      "length": 28,
-      "value": "\"https:\/\/api.geouniq.com\/v1\""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
-      "kind": "StringLiteral",
-      "offset": 638,
-      "length": 24,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
-      "kind": "StringLiteral",
-      "offset": 654,
-      "length": 7,
-      "value": "\"modules\""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
-      "kind": "StringLiteral",
-      "offset": 697,
-      "length": 24,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
-      "kind": "StringLiteral",
-      "offset": 713,
-      "length": 7,
-      "value": "\"modules\""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
-      "kind": "StringLiteral",
-      "offset": 754,
-      "length": 27,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
-      "kind": "StringLiteral",
-      "offset": 770,
-      "length": 6,
-      "value": "\"client-app\""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
-      "kind": "StringLiteral",
-      "offset": 807,
+      "offset": 913,
       "length": 7,
       "value": "\"Basic\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 848,
+      "offset": 952,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 894,
+      "offset": 998,
       "length": 13,
       "value": "\"status code\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 930,
+      "offset": 1034,
       "length": 6,
       "value": "\"code\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 965,
+      "offset": 1069,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1006,
+      "offset": 1110,
       "length": 17,
       "value": "\"invalid_request\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1059,
+      "offset": 1163,
       "length": 19,
       "value": "\"error_description\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1114,
+      "offset": 1218,
       "length": 19,
       "value": "\"Invalid client_id\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1173,
+      "offset": 1277,
       "length": 23,
       "value": "\"Invalid client_secret\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1240,
+      "offset": 1344,
       "length": 20,
       "value": "\"InvalidCredentials\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1307,
+      "offset": 1411,
       "length": 12,
       "value": "\"expires_in\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1350,
+      "offset": 1454,
       "length": 14,
       "value": "\"access_token\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1393,
+      "offset": 1497,
       "length": 12,
       "value": "\"token_type\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1450,
+      "offset": 1554,
       "length": 23,
       "value": "\"X-Geouniq-Sdk-Version\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1510,
+      "offset": 1614,
       "length": 20,
       "value": "\"X-Geouniq-Platform\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1571,
+      "offset": 1675,
       "length": 24,
       "value": "\"X-Geouniq-Package-Name\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1635,
+      "offset": 1739,
       "length": 23,
       "value": "\"X-Geouniq-App-Version\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1700,
+      "offset": 1804,
       "length": 25,
       "value": "\"X-Geouniq-Client-App-ID\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1784,
+      "offset": 1888,
       "length": 12,
       "value": "\"grant_type\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1834,
+      "offset": 1938,
       "length": 20,
       "value": "\"client_credentials\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1881,
+      "offset": 1985,
       "length": 4,
       "value": "\"os\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 1912,
+      "offset": 2016,
       "length": 5,
       "value": "\"ios\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 1962,
+      "offset": 2066,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 2005,
+      "offset": 2109,
       "length": 3,
       "value": "300"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 2048,
+      "offset": 2152,
       "length": 3,
       "value": "404"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 2091,
+      "offset": 2195,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 2134,
+      "offset": 2238,
       "length": 3,
       "value": "204"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 2177,
+      "offset": 2281,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 2220,
+      "offset": 2324,
       "length": 3,
       "value": "409"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 2263,
+      "offset": 2367,
       "length": 3,
       "value": "401"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 2319,
+      "offset": 2423,
       "length": 4,
       "value": "4000"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "IntegerLiteral",
-      "offset": 2386,
+      "offset": 2490,
       "length": 4,
       "value": "4004"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 2467,
+      "offset": 2571,
       "length": 10,
       "value": "\"accuracy\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 2526,
+      "offset": 2630,
       "length": 5,
       "value": "\"lat\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 2581,
+      "offset": 2685,
       "length": 5,
       "value": "\"lng\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 2636,
+      "offset": 2740,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 2696,
+      "offset": 2800,
       "length": 10,
       "value": "\"provider\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 2754,
+      "offset": 2858,
       "length": 9,
       "value": "\"passive\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 2827,
+      "offset": 2931,
       "length": 14,
       "value": "\"currentSpeed\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 2895,
+      "offset": 2999,
       "length": 14,
       "value": "\"averageSpeed\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 2962,
+      "offset": 3066,
       "length": 13,
       "value": "\"futureSpeed\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3006,
+      "offset": 3110,
       "length": 8,
       "value": "\"isLast\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3043,
+      "offset": 3147,
       "length": 7,
       "value": "\"speed\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3081,
+      "offset": 3185,
       "length": 9,
       "value": "\"current\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3116,
+      "offset": 3220,
       "length": 9,
       "value": "\"average\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3150,
+      "offset": 3254,
       "length": 8,
       "value": "\"future\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3195,
+      "offset": 3299,
       "length": 10,
       "value": "\"movement\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3236,
+      "offset": 3340,
       "length": 9,
       "value": "\"walking\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3271,
+      "offset": 3375,
       "length": 9,
       "value": "\"running\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3304,
+      "offset": 3408,
       "length": 7,
       "value": "\"still\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3337,
+      "offset": 3441,
       "length": 9,
       "value": "\"cycling\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3375,
+      "offset": 3479,
       "length": 12,
       "value": "\"travelling\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3413,
+      "offset": 3517,
       "length": 9,
       "value": "\"driving\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3446,
+      "offset": 3550,
       "length": 7,
       "value": "\"onBus\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3479,
+      "offset": 3583,
       "length": 9,
       "value": "\"onTrain\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3517,
+      "offset": 3621,
       "length": 12,
       "value": "\"onAirplane\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/CostantsApi.swift",
       "kind": "StringLiteral",
-      "offset": 3579,
+      "offset": 3683,
       "length": 21,
       "value": "\"inAppNotificationId\""
     },
@@ -57200,7 +57221,7 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ManagerLocationDelegate.swift",
       "kind": "BooleanLiteral",
-      "offset": 21023,
+      "offset": 21805,
       "length": 5,
       "value": "false"
     },
