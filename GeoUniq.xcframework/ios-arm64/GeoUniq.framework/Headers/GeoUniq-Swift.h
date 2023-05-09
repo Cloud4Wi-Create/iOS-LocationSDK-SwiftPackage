@@ -260,7 +260,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import AppTrackingTransparency;
 @import Foundation;
 @import ObjectiveC;
 #endif
@@ -1126,8 +1125,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _No
 /// returns:
 /// <code>[GUGeofence]</code>
 - (NSArray<GUGeofence *> * _Nonnull)getGUGeofences SWIFT_WARN_UNUSED_RESULT;
-- (ATTrackingManagerAuthorizationStatus)getATTrackingAuthorizationStatus SWIFT_WARN_UNUSED_RESULT SWIFT_AVAILABILITY(ios,introduced=14.0);
-- (void)requestATTrackingAuthorizationWithCompletion:(void (^ _Nonnull)(ATTrackingManagerAuthorizationStatus))completion SWIFT_AVAILABILITY(ios,introduced=14);
+- (NSString * _Nonnull)getATTrackingAuthorizationStatus SWIFT_WARN_UNUSED_RESULT SWIFT_AVAILABILITY(ios,introduced=14.0);
+- (void)requestATTrackingAuthorizationWithCompletion:(void (^ _Nonnull)(NSString * _Nonnull))completion SWIFT_AVAILABILITY(ios,introduced=14);
 /// Return the current Home Location if detected, nil otherwise
 ///
 /// returns:

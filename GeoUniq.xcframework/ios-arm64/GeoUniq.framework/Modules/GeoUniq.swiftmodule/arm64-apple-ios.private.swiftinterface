@@ -221,9 +221,9 @@ public func == (lhs: NetworkReachabilityManager.NetworkReachabilityStatus, rhs: 
   @objc open func removeAllGUGeofence()
   @objc open func getGUGeofences() -> [GUGeofence]
   @available(iOS 14.0, *)
-  @objc open func getATTrackingAuthorizationStatus() -> AppTrackingTransparency.ATTrackingManager.AuthorizationStatus
+  @objc open func getATTrackingAuthorizationStatus() -> Swift.String
   @available(iOS 14, *)
-  @objc open func requestATTrackingAuthorization(completion: @escaping (AppTrackingTransparency.ATTrackingManager.AuthorizationStatus) -> Swift.Void)
+  @objc open func requestATTrackingAuthorization(completion: @escaping (Swift.String) -> Swift.Void)
   @objc open func getHomeLocation() -> GUHomeLocation?
   @objc open func getWorkLocation() -> GUWorkLocation?
   @objc open func setHomeLocationListener(listener: any GUHomeLocationListener.Type)

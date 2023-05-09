@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/GeoUniq-Swift.h</key>
 		<data>
-		I73Y7HE4B6zn5xSOLt6kPzSZAl4=
+		/TgCoiRG+i8Ll1S+xeZV1bjn5qA=
 		</data>
 		<key>Headers/GeoUniq.h</key>
 		<data>
@@ -38,15 +38,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Dzn88agtjSjLeLANslDbkDPoczI=
+		RBwQ8hE+OCFxqzupk/6r1+gYAdA=
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		zRyggdWIPPTGx8HFLxR3V5QIXhw=
+		73m0+cHcaV17ax63zpdUrPGnT54=
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		AMf3IeUICAtqsAds/bsy/qpXUOU=
+		F7N1FlXJq8Pbg2tAcuMi+VIfgPc=
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,19 +54,19 @@
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AMf3IeUICAtqsAds/bsy/qpXUOU=
+		F7N1FlXJq8Pbg2tAcuMi+VIfgPc=
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6BfSogn2K+1EOkfsoNILY1z0iCw=
+		HtiHYBDf1gH0cXDB15scfKFgv3Q=
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		zRyggdWIPPTGx8HFLxR3V5QIXhw=
+		73m0+cHcaV17ax63zpdUrPGnT54=
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		kWntvOeQF9ygErXa035qBCm9FRk=
+		TUCh3jGVc5Hcxkb4DZYxITGVids=
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		kWntvOeQF9ygErXa035qBCm9FRk=
+		TUCh3jGVc5Hcxkb4DZYxITGVids=
 		</data>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pWFtb+ksi0ZoMSUplPK5PPwhPRM=
+		7WTTJdH9p2nrS/qI2wVXU0+3+uw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -172,7 +172,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DyuxD3xDSGyQn23tcyXPR9qsVuTpw3QakVVnmuYfky4=
+			LzVF8s4GvG8ekMNMJTWi1I2jxUe2RhsSdaw9rJRRIcw=
 			</data>
 		</dict>
 		<key>Headers/GeoUniq.h</key>
@@ -186,14 +186,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K0WB92o8CmYpl0DmA3gR5hd1eTAMXrIGBsU79Nkmf5s=
+			J1cB2o4JHzmwZVCHGQ+HGCBjU2br+vqG/3toZZ19lwc=
 			</data>
 		</dict>
 		<key>Modules/GeoUniq.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rir+1MEalT8nTWoSHrVh3wGEtSMYur664vhsSk+pOfo=
+			oXZ/kVMpnFDE+1t/7lHPVrVp/k3Z8DbhA3btdSmyPgY=
 			</data>
 		</dict>
 		<key>Modules/GeoUniq.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -207,28 +207,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rir+1MEalT8nTWoSHrVh3wGEtSMYur664vhsSk+pOfo=
+			oXZ/kVMpnFDE+1t/7lHPVrVp/k3Z8DbhA3btdSmyPgY=
 			</data>
 		</dict>
 		<key>Modules/GeoUniq.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fogl+62Dk1JECkXgFqyz7TLaT7QRnDp2bSjftRvrH60=
+			Z1SiGaJEXePuHhXOaLD3sAcJgX30qxw2EzkpxG0zUig=
 			</data>
 		</dict>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K0WB92o8CmYpl0DmA3gR5hd1eTAMXrIGBsU79Nkmf5s=
+			J1cB2o4JHzmwZVCHGQ+HGCBjU2br+vqG/3toZZ19lwc=
 			</data>
 		</dict>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8hFKw+2npwhgFj8WdkygYjfxTLQAk43rp5dwxzHz1iY=
+			nKtj/CWCGxBg1OHFp5g7Z5Z2YwqvwyntUDSiDjSSoSw=
 			</data>
 		</dict>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -242,14 +242,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8hFKw+2npwhgFj8WdkygYjfxTLQAk43rp5dwxzHz1iY=
+			nKtj/CWCGxBg1OHFp5g7Z5Z2YwqvwyntUDSiDjSSoSw=
 			</data>
 		</dict>
 		<key>Modules/GeoUniq.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Eqqqy3Ha02Z0kNTVE+9E2ytHmuWI6Wd5nnZTkVNT7mg=
+			31Acnq4R7NExiFmhwYwcBaoLj+zH+Vgiy4Kvy9XEBrE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
