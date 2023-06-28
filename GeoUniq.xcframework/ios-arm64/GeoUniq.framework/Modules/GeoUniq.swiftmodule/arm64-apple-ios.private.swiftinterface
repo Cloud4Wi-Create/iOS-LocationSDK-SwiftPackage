@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
-// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name GeoUniq
+// swift-module-flags: -target arm64-apple-ios10.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name GeoUniq
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AdSupport
 import AppTrackingTransparency
@@ -796,13 +796,13 @@ extension DownloadResponse : Swift.CustomStringConvertible, Swift.CustomDebugStr
   @objc var id: Swift.Int { get }
   @objc var referenceLocation: GUGeoPoint { get }
 }
-@_hasMissingDesignatedInitializers @objc public class GUHomeLocation : ObjectiveC.NSObject, LocationOfInterest {
+@_hasMissingDesignatedInitializers @objc open class GUHomeLocation : ObjectiveC.NSObject, LocationOfInterest {
   @objc open var id: Swift.Int
   @objc open var referenceLocation: GUGeoPoint
   @objc override dynamic public func isEqual(_ object: Any?) -> Swift.Bool
   @objc deinit
 }
-@_hasMissingDesignatedInitializers @objc public class GUWorkLocation : ObjectiveC.NSObject, LocationOfInterest {
+@_hasMissingDesignatedInitializers @objc open class GUWorkLocation : ObjectiveC.NSObject, LocationOfInterest {
   @objc open var id: Swift.Int
   @objc open var referenceLocation: GUGeoPoint
   @objc override dynamic public func isEqual(_ object: Any?) -> Swift.Bool
@@ -947,12 +947,12 @@ public protocol RequestRetrier {
   @objc deinit
 }
 extension Request : Swift.CustomStringConvertible {
-  open var description: Swift.String {
+  public var description: Swift.String {
     get
   }
 }
 extension Request : Swift.CustomDebugStringConvertible {
-  open var debugDescription: Swift.String {
+  public var debugDescription: Swift.String {
     get
   }
 }

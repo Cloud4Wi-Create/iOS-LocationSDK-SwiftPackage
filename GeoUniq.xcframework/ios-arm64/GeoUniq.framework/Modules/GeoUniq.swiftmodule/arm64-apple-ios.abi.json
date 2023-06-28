@@ -20160,6 +20160,7 @@
             "usr": "c:@M@GeoUniq@objc(cs)GUHomeLocation(py)id",
             "mangledName": "$s7GeoUniq14GUHomeLocationC2idSivp",
             "moduleName": "GeoUniq",
+            "isOpen": true,
             "objc_name": "id",
             "declAttributes": [
               "ObjC",
@@ -20185,6 +20186,7 @@
                 "mangledName": "$s7GeoUniq14GUHomeLocationC2idSivg",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "objc_name": "id",
                 "declAttributes": [
                   "ObjC"
@@ -20213,6 +20215,7 @@
                 "mangledName": "$s7GeoUniq14GUHomeLocationC2idSivs",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "declAttributes": [
                   "ObjC"
                 ],
@@ -20234,6 +20237,7 @@
                 "mangledName": "$s7GeoUniq14GUHomeLocationC2idSivM",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "accessorKind": "_modify"
               }
             ]
@@ -20254,6 +20258,7 @@
             "usr": "c:@M@GeoUniq@objc(cs)GUHomeLocation(py)referenceLocation",
             "mangledName": "$s7GeoUniq14GUHomeLocationC09referenceD0AA10GUGeoPointCvp",
             "moduleName": "GeoUniq",
+            "isOpen": true,
             "objc_name": "referenceLocation",
             "declAttributes": [
               "ObjC",
@@ -20279,6 +20284,7 @@
                 "mangledName": "$s7GeoUniq14GUHomeLocationC09referenceD0AA10GUGeoPointCvg",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "objc_name": "referenceLocation",
                 "declAttributes": [
                   "ObjC"
@@ -20307,6 +20313,7 @@
                 "mangledName": "$s7GeoUniq14GUHomeLocationC09referenceD0AA10GUGeoPointCvs",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "declAttributes": [
                   "ObjC"
                 ],
@@ -20328,6 +20335,7 @@
                 "mangledName": "$s7GeoUniq14GUHomeLocationC09referenceD0AA10GUGeoPointCvM",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "accessorKind": "_modify"
               }
             ]
@@ -20402,6 +20410,7 @@
         "usr": "c:@M@GeoUniq@objc(cs)GUHomeLocation",
         "mangledName": "$s7GeoUniq14GUHomeLocationC",
         "moduleName": "GeoUniq",
+        "isOpen": true,
         "declAttributes": [
           "AccessControl",
           "ObjC",
@@ -20492,6 +20501,7 @@
             "usr": "c:@M@GeoUniq@objc(cs)GUWorkLocation(py)id",
             "mangledName": "$s7GeoUniq14GUWorkLocationC2idSivp",
             "moduleName": "GeoUniq",
+            "isOpen": true,
             "objc_name": "id",
             "declAttributes": [
               "ObjC",
@@ -20517,6 +20527,7 @@
                 "mangledName": "$s7GeoUniq14GUWorkLocationC2idSivg",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "objc_name": "id",
                 "declAttributes": [
                   "ObjC"
@@ -20545,6 +20556,7 @@
                 "mangledName": "$s7GeoUniq14GUWorkLocationC2idSivs",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "declAttributes": [
                   "ObjC"
                 ],
@@ -20566,6 +20578,7 @@
                 "mangledName": "$s7GeoUniq14GUWorkLocationC2idSivM",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "accessorKind": "_modify"
               }
             ]
@@ -20586,6 +20599,7 @@
             "usr": "c:@M@GeoUniq@objc(cs)GUWorkLocation(py)referenceLocation",
             "mangledName": "$s7GeoUniq14GUWorkLocationC09referenceD0AA10GUGeoPointCvp",
             "moduleName": "GeoUniq",
+            "isOpen": true,
             "objc_name": "referenceLocation",
             "declAttributes": [
               "ObjC",
@@ -20611,6 +20625,7 @@
                 "mangledName": "$s7GeoUniq14GUWorkLocationC09referenceD0AA10GUGeoPointCvg",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "objc_name": "referenceLocation",
                 "declAttributes": [
                   "ObjC"
@@ -20639,6 +20654,7 @@
                 "mangledName": "$s7GeoUniq14GUWorkLocationC09referenceD0AA10GUGeoPointCvs",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "declAttributes": [
                   "ObjC"
                 ],
@@ -20660,6 +20676,7 @@
                 "mangledName": "$s7GeoUniq14GUWorkLocationC09referenceD0AA10GUGeoPointCvM",
                 "moduleName": "GeoUniq",
                 "implicit": true,
+                "isOpen": true,
                 "accessorKind": "_modify"
               }
             ]
@@ -20734,6 +20751,7 @@
         "usr": "c:@M@GeoUniq@objc(cs)GUWorkLocation",
         "mangledName": "$s7GeoUniq14GUWorkLocationC",
         "moduleName": "GeoUniq",
+        "isOpen": true,
         "declAttributes": [
           "AccessControl",
           "ObjC",
@@ -24498,7 +24516,6 @@
             "usr": "s:7GeoUniq7RequestC11descriptionSSvp",
             "mangledName": "$s7GeoUniq7RequestC11descriptionSSvp",
             "moduleName": "GeoUniq",
-            "isOpen": true,
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
@@ -24521,7 +24538,6 @@
                 "usr": "s:7GeoUniq7RequestC11descriptionSSvg",
                 "mangledName": "$s7GeoUniq7RequestC11descriptionSSvg",
                 "moduleName": "GeoUniq",
-                "isOpen": true,
                 "isFromExtension": true,
                 "accessorKind": "get"
               }
@@ -24543,7 +24559,6 @@
             "usr": "s:7GeoUniq7RequestC16debugDescriptionSSvp",
             "mangledName": "$s7GeoUniq7RequestC16debugDescriptionSSvp",
             "moduleName": "GeoUniq",
-            "isOpen": true,
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
@@ -24566,7 +24581,6 @@
                 "usr": "s:7GeoUniq7RequestC16debugDescriptionSSvg",
                 "mangledName": "$s7GeoUniq7RequestC16debugDescriptionSSvg",
                 "moduleName": "GeoUniq",
-                "isOpen": true,
                 "isFromExtension": true,
                 "accessorKind": "get"
               }
@@ -49654,175 +49668,175 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14224,
+      "offset": 14256,
       "length": 73,
       "value": "\"A new endpoint has been set. Remember to enable the location forwarding\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14318,
+      "offset": 14350,
       "length": 32,
       "value": "\"New customEndpoint parameters:\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14371,
+      "offset": 14403,
       "length": 82,
       "value": "\"url: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14452,
+      "offset": 14484,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14474,
+      "offset": 14506,
       "length": 90,
       "value": "\"headers: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14563,
+      "offset": 14595,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14585,
+      "offset": 14617,
       "length": 120,
       "value": "\"query string parameters: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14704,
+      "offset": 14736,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14726,
+      "offset": 14758,
       "length": 97,
       "value": "\"custom data: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14822,
+      "offset": 14854,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 14990,
+      "offset": 15022,
       "length": 77,
       "value": "\"The 'CustomEndpoint' has been removed. The forwarding has also been disabed\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "BooleanLiteral",
-      "offset": 15170,
+      "offset": 15202,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 15230,
+      "offset": 15262,
       "length": 94,
       "value": "\"The custom enpoint has been enabled, from now on you will receive all new locations detected\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "BooleanLiteral",
-      "offset": 15371,
+      "offset": 15403,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 15431,
+      "offset": 15463,
       "length": 82,
       "value": "\"The custom enpoint has been DISABLED, from now on you won't receive any location\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "BooleanLiteral",
-      "offset": 15560,
+      "offset": 15592,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 16865,
+      "offset": 16897,
       "length": 12,
       "value": "\"authorized\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 16904,
+      "offset": 16936,
       "length": 12,
       "value": "\"authorized\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 16950,
+      "offset": 16982,
       "length": 15,
       "value": "\"notDetermined\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 16996,
+      "offset": 17028,
       "length": 12,
       "value": "\"restricted\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 17030,
+      "offset": 17062,
       "length": 8,
       "value": "\"unknow\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "BooleanLiteral",
-      "offset": 17168,
+      "offset": 17200,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 17261,
+      "offset": 17293,
       "length": 49,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 17300,
+      "offset": 17332,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Core.swift",
       "kind": "StringLiteral",
-      "offset": 17309,
+      "offset": 17341,
       "length": 1,
       "value": "\"\""
     },
@@ -52341,22 +52355,15 @@
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
-      "kind": "Array",
-      "offset": 1840,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2505,
+      "offset": 2510,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2562,
+      "offset": 2567,
       "length": 4,
       "value": "true"
     },
@@ -52370,126 +52377,112 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "StringLiteral",
-      "offset": 2637,
+      "offset": 2642,
       "length": 11,
       "value": "\"requested\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "StringLiteral",
-      "offset": 2668,
+      "offset": 2673,
       "length": 9,
       "value": "\"granted\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "StringLiteral",
-      "offset": 2703,
+      "offset": 2708,
       "length": 15,
       "value": "\"registrations\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "StringLiteral",
-      "offset": 2637,
+      "offset": 2642,
       "length": 11,
       "value": "\"requested\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "StringLiteral",
-      "offset": 2668,
+      "offset": 2673,
       "length": 9,
       "value": "\"granted\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "StringLiteral",
-      "offset": 2703,
+      "offset": 2708,
       "length": 15,
       "value": "\"registrations\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3538,
+      "offset": 3543,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3661,
+      "offset": 3666,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
-      "kind": "Array",
-      "offset": 3849,
-      "length": 2,
-      "value": "[]"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4998,
+      "offset": 5026,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "Array",
-      "offset": 5104,
+      "offset": 5132,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "StringLiteral",
-      "offset": 5452,
+      "offset": 5480,
       "length": 72,
       "value": "\"Failed to load json: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "StringLiteral",
-      "offset": 5503,
+      "offset": 5531,
       "length": 1,
       "value": "\" - original: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "StringLiteral",
-      "offset": 5523,
+      "offset": 5551,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
-      "kind": "Array",
-      "offset": 5613,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6441,
+      "offset": 6474,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6736,
+      "offset": 6769,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/MotionActivityModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6812,
+      "offset": 6845,
       "length": 4,
       "value": "true"
     },
@@ -52845,638 +52838,624 @@
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
-      "kind": "Array",
-      "offset": 4568,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4857,
+      "offset": 4862,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "Array",
-      "offset": 4963,
+      "offset": 4968,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 5311,
+      "offset": 5316,
       "length": 72,
       "value": "\"Failed to load json: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 5362,
+      "offset": 5367,
       "length": 1,
       "value": "\" - original: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 5382,
+      "offset": 5387,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
-      "kind": "Array",
-      "offset": 5707,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6670,
+      "offset": 6680,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 6863,
+      "offset": 6873,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 7731,
+      "offset": 7741,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7824,
+      "offset": 7834,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8045,
+      "offset": 8055,
       "length": 9,
       "value": "\"iPod5,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8095,
+      "offset": 8105,
       "length": 14,
       "value": "\"iPod Touch 5\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8123,
+      "offset": 8133,
       "length": 9,
       "value": "\"iPod7,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8173,
+      "offset": 8183,
       "length": 14,
       "value": "\"iPod Touch 6\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8201,
+      "offset": 8211,
       "length": 11,
       "value": "\"iPhone3,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8214,
+      "offset": 8224,
       "length": 11,
       "value": "\"iPhone3,2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8227,
+      "offset": 8237,
       "length": 11,
       "value": "\"iPhone3,3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8251,
+      "offset": 8261,
       "length": 10,
       "value": "\"iPhone 4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8275,
+      "offset": 8285,
       "length": 11,
       "value": "\"iPhone4,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8325,
+      "offset": 8335,
       "length": 11,
       "value": "\"iPhone 4s\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8350,
+      "offset": 8360,
       "length": 11,
       "value": "\"iPhone5,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8363,
+      "offset": 8373,
       "length": 11,
       "value": "\"iPhone5,2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8400,
+      "offset": 8410,
       "length": 10,
       "value": "\"iPhone 5\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8424,
+      "offset": 8434,
       "length": 11,
       "value": "\"iPhone5,3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8437,
+      "offset": 8447,
       "length": 11,
       "value": "\"iPhone5,4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8474,
+      "offset": 8484,
       "length": 11,
       "value": "\"iPhone 5c\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8499,
+      "offset": 8509,
       "length": 11,
       "value": "\"iPhone6,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8512,
+      "offset": 8522,
       "length": 11,
       "value": "\"iPhone6,2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8549,
+      "offset": 8559,
       "length": 11,
       "value": "\"iPhone 5s\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8574,
+      "offset": 8584,
       "length": 11,
       "value": "\"iPhone7,2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8624,
+      "offset": 8634,
       "length": 10,
       "value": "\"iPhone 6\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8648,
+      "offset": 8658,
       "length": 11,
       "value": "\"iPhone7,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8698,
+      "offset": 8708,
       "length": 15,
       "value": "\"iPhone 6 Plus\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8727,
+      "offset": 8737,
       "length": 11,
       "value": "\"iPhone8,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8777,
+      "offset": 8787,
       "length": 11,
       "value": "\"iPhone 6s\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8802,
+      "offset": 8812,
       "length": 11,
       "value": "\"iPhone8,2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8852,
+      "offset": 8862,
       "length": 16,
       "value": "\"iPhone 6s Plus\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8882,
+      "offset": 8892,
       "length": 11,
       "value": "\"iPhone9,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8895,
+      "offset": 8905,
       "length": 11,
       "value": "\"iPhone9,3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8932,
+      "offset": 8942,
       "length": 10,
       "value": "\"iPhone 7\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8956,
+      "offset": 8966,
       "length": 11,
       "value": "\"iPhone9,2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 8969,
+      "offset": 8979,
       "length": 11,
       "value": "\"iPhone9,4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9006,
+      "offset": 9016,
       "length": 15,
       "value": "\"iPhone 7 Plus\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9035,
+      "offset": 9045,
       "length": 11,
       "value": "\"iPhone8,4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9085,
+      "offset": 9095,
       "length": 11,
       "value": "\"iPhone SE\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9110,
+      "offset": 9120,
       "length": 9,
       "value": "\"iPad2,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9121,
+      "offset": 9131,
       "length": 9,
       "value": "\"iPad2,2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9132,
+      "offset": 9142,
       "length": 9,
       "value": "\"iPad2,3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9143,
+      "offset": 9153,
       "length": 9,
       "value": "\"iPad2,4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9160,
+      "offset": 9170,
       "length": 8,
       "value": "\"iPad 2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9182,
+      "offset": 9192,
       "length": 9,
       "value": "\"iPad3,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9193,
+      "offset": 9203,
       "length": 9,
       "value": "\"iPad3,2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9204,
+      "offset": 9214,
       "length": 9,
       "value": "\"iPad3,3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9232,
+      "offset": 9242,
       "length": 8,
       "value": "\"iPad 3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9254,
+      "offset": 9264,
       "length": 9,
       "value": "\"iPad3,4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9265,
+      "offset": 9275,
       "length": 9,
       "value": "\"iPad3,5\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9276,
+      "offset": 9286,
       "length": 9,
       "value": "\"iPad3,6\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9304,
+      "offset": 9314,
       "length": 8,
       "value": "\"iPad 4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9326,
+      "offset": 9336,
       "length": 9,
       "value": "\"iPad4,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9337,
+      "offset": 9347,
       "length": 9,
       "value": "\"iPad4,2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9348,
+      "offset": 9358,
       "length": 9,
       "value": "\"iPad4,3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9376,
+      "offset": 9386,
       "length": 10,
       "value": "\"iPad Air\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9400,
+      "offset": 9410,
       "length": 9,
       "value": "\"iPad5,3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9411,
+      "offset": 9421,
       "length": 9,
       "value": "\"iPad5,4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9450,
+      "offset": 9460,
       "length": 12,
       "value": "\"iPad Air 2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9476,
+      "offset": 9486,
       "length": 9,
       "value": "\"iPad2,5\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9487,
+      "offset": 9497,
       "length": 9,
       "value": "\"iPad2,6\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9498,
+      "offset": 9508,
       "length": 9,
       "value": "\"iPad2,7\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9526,
+      "offset": 9536,
       "length": 11,
       "value": "\"iPad Mini\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9551,
+      "offset": 9561,
       "length": 9,
       "value": "\"iPad4,4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9562,
+      "offset": 9572,
       "length": 9,
       "value": "\"iPad4,5\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9573,
+      "offset": 9583,
       "length": 9,
       "value": "\"iPad4,6\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9601,
+      "offset": 9611,
       "length": 13,
       "value": "\"iPad Mini 2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9628,
+      "offset": 9638,
       "length": 9,
       "value": "\"iPad4,7\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9639,
+      "offset": 9649,
       "length": 9,
       "value": "\"iPad4,8\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9650,
+      "offset": 9660,
       "length": 9,
       "value": "\"iPad4,9\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9678,
+      "offset": 9688,
       "length": 13,
       "value": "\"iPad Mini 3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9705,
+      "offset": 9715,
       "length": 9,
       "value": "\"iPad5,1\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9716,
+      "offset": 9726,
       "length": 9,
       "value": "\"iPad5,2\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9755,
+      "offset": 9765,
       "length": 13,
       "value": "\"iPad Mini 4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9782,
+      "offset": 9792,
       "length": 9,
       "value": "\"iPad6,3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9793,
+      "offset": 9803,
       "length": 9,
       "value": "\"iPad6,4\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9804,
+      "offset": 9814,
       "length": 9,
       "value": "\"iPad6,7\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9815,
+      "offset": 9825,
       "length": 9,
       "value": "\"iPad6,8\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9832,
+      "offset": 9842,
       "length": 10,
       "value": "\"iPad Pro\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9856,
+      "offset": 9866,
       "length": 12,
       "value": "\"AppleTV5,3\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9906,
+      "offset": 9916,
       "length": 10,
       "value": "\"Apple TV\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9930,
+      "offset": 9940,
       "length": 6,
       "value": "\"i386\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9938,
+      "offset": 9948,
       "length": 8,
       "value": "\"x86_64\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/DeviceModel.swift",
       "kind": "StringLiteral",
-      "offset": 9980,
+      "offset": 9990,
       "length": 11,
       "value": "\"Simulator\""
     },
@@ -62667,238 +62646,238 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "IntegerLiteral",
-      "offset": 8385,
+      "offset": 8440,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 8438,
+      "offset": 8493,
       "length": 27,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 8451,
+      "offset": 8506,
       "length": 1,
       "value": "\" - case: Exit\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "IntegerLiteral",
-      "offset": 8660,
+      "offset": 8715,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 8706,
+      "offset": 8761,
       "length": 62,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 8719,
+      "offset": 8774,
       "length": 1,
       "value": "\" - transition triggered: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 8767,
+      "offset": 8822,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "BooleanLiteral",
-      "offset": 8912,
+      "offset": 8967,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 9404,
+      "offset": 9459,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 9417,
+      "offset": 9472,
       "length": 1,
       "value": "\" - period or periodcInterval is nil - return false\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "BooleanLiteral",
-      "offset": 9497,
+      "offset": 9552,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 9652,
+      "offset": 9707,
       "length": 94,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 9665,
+      "offset": 9720,
       "length": 1,
       "value": "\" - duration: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 9689,
+      "offset": 9744,
       "length": 1,
       "value": "\", periodicInterval: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 9745,
+      "offset": 9800,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "IntegerLiteral",
-      "offset": 9983,
+      "offset": 10038,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 10024,
+      "offset": 10079,
       "length": 57,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 10037,
+      "offset": 10092,
       "length": 1,
       "value": "\" - period or interval is nil - return false\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "BooleanLiteral",
-      "offset": 10110,
+      "offset": 10165,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 10217,
+      "offset": 10272,
       "length": 80,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 10230,
+      "offset": 10285,
       "length": 1,
       "value": "\" - duration: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 10254,
+      "offset": 10309,
       "length": 1,
       "value": "\", intervals: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 10296,
+      "offset": 10351,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "IntegerLiteral",
-      "offset": 10521,
+      "offset": 10576,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "FloatLiteral",
-      "offset": 10580,
+      "offset": 10635,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "IntegerLiteral",
-      "offset": 10710,
+      "offset": 10765,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 10859,
+      "offset": 10914,
       "length": 25,
       "value": "\"ketIdTriggerIncremental\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "IntegerLiteral",
-      "offset": 10900,
+      "offset": 10955,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "BooleanLiteral",
-      "offset": 11002,
+      "offset": 11057,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 11118,
+      "offset": 11173,
       "length": 32,
       "value": "\"TriggerObjectProtocol - \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 11149,
+      "offset": 11204,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 12565,
+      "offset": 12620,
       "length": 14,
       "value": "\"Unknown type\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 14945,
+      "offset": 15000,
       "length": 65,
       "value": "\"TriggerArray - error parsing last: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerObjects.swift",
       "kind": "StringLiteral",
-      "offset": 15009,
+      "offset": 15064,
       "length": 2,
       "value": "\"\""
     },
@@ -63808,14 +63787,14 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ApiGeofence.swift",
       "kind": "BooleanLiteral",
-      "offset": 1740,
+      "offset": 1856,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ApiGeofence.swift",
       "kind": "IntegerLiteral",
-      "offset": 1879,
+      "offset": 2013,
       "length": 1,
       "value": "0"
     },
@@ -74735,70 +74714,70 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GULOIs.swift",
       "kind": "BooleanLiteral",
-      "offset": 778,
+      "offset": 776,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GULOIs.swift",
       "kind": "StringLiteral",
-      "offset": 839,
+      "offset": 837,
       "length": 63,
       "value": "\"id: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GULOIs.swift",
       "kind": "StringLiteral",
-      "offset": 854,
+      "offset": 852,
       "length": 1,
       "value": "\", Reference Location: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GULOIs.swift",
       "kind": "StringLiteral",
-      "offset": 901,
+      "offset": 899,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GULOIs.swift",
       "kind": "StringLiteral",
-      "offset": 390,
+      "offset": 388,
       "length": 14,
       "value": "\"GeoUniq.GUHomeLocation\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GULOIs.swift",
       "kind": "BooleanLiteral",
-      "offset": 1410,
+      "offset": 1406,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GULOIs.swift",
       "kind": "StringLiteral",
-      "offset": 1472,
+      "offset": 1468,
       "length": 63,
       "value": "\"id: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GULOIs.swift",
       "kind": "StringLiteral",
-      "offset": 1487,
+      "offset": 1483,
       "length": 1,
       "value": "\", Reference Location: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GULOIs.swift",
       "kind": "StringLiteral",
-      "offset": 1534,
+      "offset": 1530,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/GULOIs.swift",
       "kind": "StringLiteral",
-      "offset": 1022,
+      "offset": 1018,
       "length": 14,
       "value": "\"GeoUniq.GUWorkLocation\""
     },
@@ -85438,63 +85417,63 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerClientAppAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2409,
+      "offset": 2518,
       "length": 31,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerClientAppAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2422,
+      "offset": 2531,
       "length": 1,
       "value": "\" - Trigger setted\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerClientAppAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 2578,
+      "offset": 2687,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerClientAppAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 2641,
+      "offset": 2750,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerClientAppAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 3076,
+      "offset": 3185,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerClientAppAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 3710,
+      "offset": 3819,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerClientAppAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3835,
+      "offset": 3944,
       "length": 49,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerClientAppAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3874,
+      "offset": 3983,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerClientAppAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3883,
+      "offset": 3992,
       "length": 1,
       "value": "\"\""
     },
@@ -85564,588 +85543,588 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2013,
+      "offset": 2286,
       "length": 14,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2026,
+      "offset": 2299,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 2188,
+      "offset": 2461,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2227,
+      "offset": 2500,
       "length": 35,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2240,
+      "offset": 2513,
       "length": 1,
       "value": "\" - updating necessary\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 2360,
+      "offset": 2633,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2505,
+      "offset": 2778,
       "length": 54,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2518,
+      "offset": 2791,
       "length": 1,
       "value": "\" - updating not necessary or in progress\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3225,
+      "offset": 3498,
       "length": 125,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3238,
+      "offset": 3511,
       "length": 1,
       "value": "\" - Check, distance: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3279,
+      "offset": 3552,
       "length": 1,
       "value": "\" - time difference: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3316,
+      "offset": 3589,
       "length": 1,
       "value": "\" - is necessary: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3349,
+      "offset": 3622,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3487,
+      "offset": 3760,
       "length": 58,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3500,
+      "offset": 3773,
       "length": 1,
       "value": "\" - Check, no last position, update necessary\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 3626,
+      "offset": 3899,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3798,
+      "offset": 4071,
       "length": 47,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3811,
+      "offset": 4084,
       "length": 1,
       "value": "\" - is possible to do call - start\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4180,
+      "offset": 4453,
       "length": 120,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4193,
+      "offset": 4466,
       "length": 1,
       "value": "\" - stop - server error in the past - no sending before \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4299,
+      "offset": 4572,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 4398,
+      "offset": 4671,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4518,
+      "offset": 4791,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4531,
+      "offset": 4804,
       "length": 1,
       "value": "\" - statusCode: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4559,
+      "offset": 4832,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4609,
+      "offset": 4882,
       "length": 61,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4622,
+      "offset": 4895,
       "length": 1,
       "value": "\" - response: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4669,
+      "offset": 4942,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 4817,
+      "offset": 5090,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 4837,
+      "offset": 5110,
       "length": 3,
       "value": "600"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4875,
+      "offset": 5148,
       "length": 56,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4888,
+      "offset": 5161,
       "length": 1,
       "value": "\" - increase wating time for send to server\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5090,
+      "offset": 5363,
       "length": 74,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5103,
+      "offset": 5376,
       "length": 1,
       "value": "\" - error: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5126,
+      "offset": 5399,
       "length": 1,
       "value": "\" - no update trigger remote geofences\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 5262,
+      "offset": 5535,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5434,
+      "offset": 5707,
       "length": 69,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5447,
+      "offset": 5720,
       "length": 1,
       "value": "\" - response is nil - no update trigger remote geofences\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 5601,
+      "offset": 5874,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5799,
+      "offset": 6072,
       "length": 74,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5812,
+      "offset": 6085,
       "length": 1,
       "value": "\" - new trigger remote geofences: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5872,
+      "offset": 6145,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6239,
+      "offset": 6512,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6252,
+      "offset": 6525,
       "length": 1,
       "value": "\" - deserrialize error - stop\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 6382,
+      "offset": 6655,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6592,
+      "offset": 6865,
       "length": 43,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6605,
+      "offset": 6878,
       "length": 1,
       "value": "\" - before update triggers are\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6917,
+      "offset": 7190,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6940,
+      "offset": 7213,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7478,
+      "offset": 7751,
       "length": 61,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7491,
+      "offset": 7764,
       "length": 1,
       "value": "\" - trigger founded: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7538,
+      "offset": 7811,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 8513,
+      "offset": 8892,
       "length": 58,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 8526,
+      "offset": 8905,
       "length": 1,
       "value": "\" - new trigger is: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 8570,
+      "offset": 8949,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 8967,
+      "offset": 9346,
       "length": 43,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 8980,
+      "offset": 9359,
       "length": 1,
       "value": "\" - after update triggers are:\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 9296,
+      "offset": 9675,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 9319,
+      "offset": 9698,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 9441,
+      "offset": 9820,
       "length": 50,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 9454,
+      "offset": 9833,
       "length": 1,
       "value": "\" - positionForUpdate is nill - error\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 9715,
+      "offset": 10094,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 9808,
+      "offset": 10187,
       "length": 49,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 9847,
+      "offset": 10226,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 9856,
+      "offset": 10235,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 10119,
+      "offset": 10498,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 10164,
+      "offset": 10543,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 10199,
+      "offset": 10578,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10232,
+      "offset": 10611,
       "length": 105,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10245,
+      "offset": 10624,
       "length": 1,
       "value": "\" - time remaining before begin: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10336,
+      "offset": 10715,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10475,
+      "offset": 10854,
       "length": 23,
       "value": "\"GenericBackgroundTask\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10583,
+      "offset": 10962,
       "length": 131,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10596,
+      "offset": 10975,
       "length": 1,
       "value": "\" - begin BackgroundTask: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10635,
+      "offset": 11014,
       "length": 1,
       "value": "\" - time remaining: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10713,
+      "offset": 11092,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 10863,
+      "offset": 11242,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 10890,
+      "offset": 11269,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10925,
+      "offset": 11304,
       "length": 51,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10938,
+      "offset": 11317,
       "length": 1,
       "value": "\" - end BackgroundTask: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 10975,
+      "offset": 11354,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 11298,
+      "offset": 11677,
       "length": 68,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 11311,
+      "offset": 11690,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteGeofenceAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 11347,
+      "offset": 11726,
       "length": 1,
       "value": "\" - task expiration\""
     },
@@ -87195,308 +87174,308 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "Array",
-      "offset": 8411,
+      "offset": 8413,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 8695,
+      "offset": 8697,
       "length": 26,
       "value": "\"(\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 8719,
+      "offset": 8721,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 8778,
+      "offset": 8780,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "Array",
-      "offset": 9138,
+      "offset": 9142,
       "length": 13,
       "value": "[\"$ curl -i\"]"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 9300,
+      "offset": 9304,
       "length": 37,
       "value": "\"$ curl command could not be created\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 9411,
+      "offset": 9415,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 9449,
+      "offset": 9453,
       "length": 18,
       "value": "\"-X \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 9466,
+      "offset": 9470,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "IntegerLiteral",
-      "offset": 9681,
+      "offset": 9685,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10020,
+      "offset": 10024,
       "length": 48,
       "value": "\"-u \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10043,
+      "offset": 10047,
       "length": 1,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10067,
+      "offset": 10071,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10205,
+      "offset": 10209,
       "length": 48,
       "value": "\"-u \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10228,
+      "offset": 10232,
       "length": 1,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10252,
+      "offset": 10256,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10526,
+      "offset": 10530,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10537,
+      "offset": 10541,
       "length": 25,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10548,
+      "offset": 10552,
       "length": 1,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10560,
+      "offset": 10564,
       "length": 1,
       "value": "\";\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10613,
+      "offset": 10617,
       "length": 60,
       "value": "\"-b \"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 10670,
+      "offset": 10674,
       "length": 1,
       "value": "\"\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "Dictionary",
-      "offset": 10854,
+      "offset": 10858,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11019,
+      "offset": 11023,
       "length": 8,
       "value": "\"Cookie\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11217,
+      "offset": 11221,
       "length": 8,
       "value": "\"Cookie\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11362,
+      "offset": 11366,
       "length": 27,
       "value": "\"-H \"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11376,
+      "offset": 11380,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11386,
+      "offset": 11390,
       "length": 1,
       "value": "\"\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11622,
+      "offset": 11626,
       "length": 6,
       "value": "\"\\\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11636,
+      "offset": 11640,
       "length": 8,
       "value": "\"\\\\\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11709,
+      "offset": 11713,
       "length": 4,
       "value": "\"\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11721,
+      "offset": 11725,
       "length": 6,
       "value": "\"\\\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11760,
+      "offset": 11764,
       "length": 23,
       "value": "\"-d \"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11780,
+      "offset": 11784,
       "length": 1,
       "value": "\"\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11822,
+      "offset": 11826,
       "length": 27,
       "value": "\"\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11846,
+      "offset": 11850,
       "length": 1,
       "value": "\"\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 11896,
+      "offset": 11900,
       "length": 9,
       "value": "\" \\\n\t\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "IntegerLiteral",
-      "offset": 15310,
+      "offset": 15314,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "IntegerLiteral",
-      "offset": 15315,
+      "offset": 15319,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "IntegerLiteral",
-      "offset": 15497,
+      "offset": 15501,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "IntegerLiteral",
-      "offset": 15502,
+      "offset": 15506,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "IntegerLiteral",
-      "offset": 20024,
+      "offset": 20028,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "Array",
-      "offset": 20080,
+      "offset": 20084,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/Alamofire\/Request.swift",
       "kind": "Array",
-      "offset": 20133,
+      "offset": 20137,
       "length": 2,
       "value": "[]"
     },
@@ -90834,414 +90813,421 @@
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1207,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 1196,
+      "offset": 1397,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 1235,
+      "offset": 1436,
       "length": 56,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 1248,
+      "offset": 1449,
       "length": 1,
       "value": "\" - Last remote triggers request is expired\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 1403,
+      "offset": 1604,
       "length": 47,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 1416,
+      "offset": 1617,
       "length": 1,
       "value": "\" - is possible to do call - start\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 1574,
+      "offset": 1775,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 1733,
+      "offset": 1934,
       "length": 120,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 1746,
+      "offset": 1947,
       "length": 1,
       "value": "\" - stop - server error in the past - no sending before \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 1852,
+      "offset": 2053,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 1919,
+      "offset": 2120,
       "length": 39,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 1932,
+      "offset": 2133,
       "length": 1,
       "value": "\" - no update is necessary\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2091,
+      "offset": 2292,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2104,
+      "offset": 2305,
       "length": 1,
       "value": "\" - statusCode: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2132,
+      "offset": 2333,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2182,
+      "offset": 2383,
       "length": 61,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2195,
+      "offset": 2396,
       "length": 1,
       "value": "\" - response: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2242,
+      "offset": 2443,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 2338,
+      "offset": 2539,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 2358,
+      "offset": 2559,
       "length": 3,
       "value": "600"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2396,
+      "offset": 2597,
       "length": 56,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2409,
+      "offset": 2610,
       "length": 1,
       "value": "\" - increase wating time for send to server\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2559,
+      "offset": 2760,
       "length": 54,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2572,
+      "offset": 2773,
       "length": 1,
       "value": "\" - error: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2595,
+      "offset": 2796,
       "length": 1,
       "value": "\" - no update lois\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 2668,
+      "offset": 2869,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2840,
+      "offset": 3041,
       "length": 49,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2853,
+      "offset": 3054,
       "length": 1,
       "value": "\" - response is nil - no update lois\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 2944,
+      "offset": 3145,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3136,
+      "offset": 3337,
       "length": 56,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3149,
+      "offset": 3350,
       "length": 1,
       "value": "\" - new triggers loi: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3191,
+      "offset": 3392,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3443,
+      "offset": 3644,
       "length": 42,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3456,
+      "offset": 3657,
       "length": 1,
       "value": "\" - deserrialize error - stop\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 3543,
+      "offset": 3744,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5501,
+      "offset": 5702,
       "length": 50,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5514,
+      "offset": 5715,
       "length": 1,
       "value": "\" - positionForUpdate is nill - error\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 5964,
+      "offset": 6165,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6089,
+      "offset": 6290,
       "length": 49,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6128,
+      "offset": 6329,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6137,
+      "offset": 6338,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 6396,
+      "offset": 6597,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 6441,
+      "offset": 6642,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 6476,
+      "offset": 6677,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6509,
+      "offset": 6710,
       "length": 105,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6522,
+      "offset": 6723,
       "length": 1,
       "value": "\" - time remaining before begin: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6613,
+      "offset": 6814,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6700,
+      "offset": 6901,
       "length": 23,
       "value": "\"GenericBackgroundTask\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6808,
+      "offset": 7009,
       "length": 131,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6821,
+      "offset": 7022,
       "length": 1,
       "value": "\" - begin BackgroundTask: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6860,
+      "offset": 7061,
       "length": 1,
       "value": "\" - time remaining: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6938,
+      "offset": 7139,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 7037,
+      "offset": 7238,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 7064,
+      "offset": 7265,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7099,
+      "offset": 7300,
       "length": 51,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7112,
+      "offset": 7313,
       "length": 1,
       "value": "\" - end BackgroundTask: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7149,
+      "offset": 7350,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7420,
+      "offset": 7621,
       "length": 68,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7433,
+      "offset": 7634,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerRemoteLOIAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7469,
+      "offset": 7670,
       "length": 1,
       "value": "\" - task expiration\""
     },
@@ -92403,147 +92389,147 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 4422,
+      "offset": 4424,
       "length": 26,
       "value": "\"Already Requesting token\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "BooleanLiteral",
-      "offset": 4519,
+      "offset": 4521,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 4890,
+      "offset": 4892,
       "length": 50,
       "value": "\"pmodule - propagating token error, \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 4939,
+      "offset": 4941,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "IntegerLiteral",
-      "offset": 4960,
+      "offset": 4962,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "BooleanLiteral",
-      "offset": 5304,
+      "offset": 5306,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 5333,
+      "offset": 5335,
       "length": 43,
       "value": "\"callback token: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 5375,
+      "offset": 5377,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "IntegerLiteral",
-      "offset": 5406,
+      "offset": 5408,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "IntegerLiteral",
-      "offset": 5426,
+      "offset": 5428,
       "length": 3,
       "value": "600"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 5453,
+      "offset": 5455,
       "length": 121,
       "value": "\"PModuleConnection - callbackRequestTokenInternal - error server \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 5531,
+      "offset": 5533,
       "length": 1,
       "value": "\" - increase wating time for send to server\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 5792,
+      "offset": 5794,
       "length": 42,
       "value": "\"pmodule - 401 unauthorized, reinstalling\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "IntegerLiteral",
-      "offset": 6102,
+      "offset": 6104,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "IntegerLiteral",
-      "offset": 6137,
+      "offset": 6139,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 6875,
+      "offset": 6877,
       "length": 61,
       "value": "\"pmodule - FOUND UNAUTHORIZED with invalid client id\/secret:\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 7410,
+      "offset": 7412,
       "length": 47,
       "value": "\"pmodule - not invalid credentials description\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 7541,
+      "offset": 7543,
       "length": 43,
       "value": "\"pmodule  - not invalid credentials model \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 8013,
+      "offset": 8015,
       "length": 39,
       "value": "\"server - ERROR decoding token request\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 8112,
+      "offset": 8114,
       "length": 68,
       "value": "\"server - ERROR callback token, expected 200, receive \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/PModuleConnection.swift",
       "kind": "StringLiteral",
-      "offset": 8179,
+      "offset": 8181,
       "length": 2,
       "value": "\"\""
     },
@@ -99410,791 +99396,791 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 3544,
+      "offset": 3553,
       "length": 7,
       "value": "\"descr\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 3552,
+      "offset": 3561,
       "length": 33,
       "value": "\"Error during the authentication\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 3709,
+      "offset": 3736,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 3743,
+      "offset": 3770,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 3779,
+      "offset": 3806,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 3845,
+      "offset": 3872,
       "length": 51,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 3858,
+      "offset": 3885,
       "length": 1,
       "value": "\" - idCall: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 3878,
+      "offset": 3905,
       "length": 1,
       "value": "\" - patch - \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 3895,
+      "offset": 3922,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 4229,
+      "offset": 4256,
       "length": 58,
       "value": "\"getGeofence - module not registered or module id is nill\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 4466,
+      "offset": 4493,
       "length": 11,
       "value": "\"\/modules\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 4508,
+      "offset": 4535,
       "length": 51,
       "value": "\"\/geofences?lat=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 4530,
+      "offset": 4557,
       "length": 1,
       "value": "\"&lng=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 4541,
+      "offset": 4568,
       "length": 1,
       "value": "\"&radius=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 4558,
+      "offset": 4585,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 4852,
+      "offset": 4879,
       "length": 62,
       "value": "\"triggerGeofence - module not registered or module id is nill\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 5036,
+      "offset": 5063,
       "length": 11,
       "value": "\"\/modules\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 5078,
+      "offset": 5105,
       "length": 13,
       "value": "\"\/geofences\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 5417,
+      "offset": 5444,
       "length": 67,
       "value": "\"getRemoteLOITriggers - module not registered or module id is nill\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 5606,
+      "offset": 5633,
       "length": 11,
       "value": "\"\/modules\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 5648,
+      "offset": 5675,
       "length": 16,
       "value": "\"\/loi-geofences\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 5968,
+      "offset": 5995,
       "length": 65,
       "value": "\"triggerLoiGeofence - module not registered or module id is nill\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 6155,
+      "offset": 6182,
       "length": 11,
       "value": "\"\/modules\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 6197,
+      "offset": 6224,
       "length": 17,
       "value": "\"\/loi-geofences\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 6596,
+      "offset": 6623,
       "length": 65,
       "value": "\"triggerLoiGeofence - module not registered or module id is nill\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 6783,
+      "offset": 6810,
       "length": 11,
       "value": "\"\/modules\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 6825,
+      "offset": 6852,
       "length": 13,
       "value": "\"\/geofences\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 7222,
+      "offset": 7249,
       "length": 58,
       "value": "\"getGeofence - module not registered or module id is nill\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 7462,
+      "offset": 7489,
       "length": 11,
       "value": "\"\/modules\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 7504,
+      "offset": 7531,
       "length": 51,
       "value": "\"\/geofences?lat=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 7526,
+      "offset": 7553,
       "length": 1,
       "value": "\"&lng=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 7537,
+      "offset": 7564,
       "length": 1,
       "value": "\"&radius=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 7554,
+      "offset": 7581,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 7845,
+      "offset": 7872,
       "length": 61,
       "value": "\"getTagsForType - module not registered or module id is nill\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 8028,
+      "offset": 8055,
       "length": 24,
       "value": "\"\/tag-definitions?type=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "IntegerLiteral",
-      "offset": 8129,
+      "offset": 8156,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 8168,
+      "offset": 8195,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 8267,
+      "offset": 8294,
       "length": 65,
       "value": "\"&lat=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 8293,
+      "offset": 8320,
       "length": 1,
       "value": "\"&lng=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 8318,
+      "offset": 8345,
       "length": 1,
       "value": "\"&radius=10000\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 8586,
+      "offset": 8613,
       "length": 60,
       "value": "\"getCensusData - module not registered or module id is nill\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 8768,
+      "offset": 8795,
       "length": 27,
       "value": "\"\/census-sections?id=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 8794,
+      "offset": 8821,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 9062,
+      "offset": 9089,
       "length": 60,
       "value": "\"getCensusData - module not registered or module id is nill\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 9244,
+      "offset": 9271,
       "length": 40,
       "value": "\"\/census-sections?lat=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 9272,
+      "offset": 9299,
       "length": 1,
       "value": "\"&lng=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 9283,
+      "offset": 9310,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 9539,
+      "offset": 9566,
       "length": 60,
       "value": "\"getCensusData - module not registered or module id is nill\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 9721,
+      "offset": 9748,
       "length": 24,
       "value": "\"\/attribute-definitions\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 12871,
+      "offset": 12898,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 13005,
+      "offset": 13032,
       "length": 33,
       "value": "\"forwarding locations to: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 13037,
+      "offset": 13064,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 13348,
+      "offset": 13375,
       "length": 7,
       "value": "\"items\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 13580,
+      "offset": 13607,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 13646,
+      "offset": 13673,
       "length": 3,
       "value": "\"&\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 13656,
+      "offset": 13683,
       "length": 3,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "IntegerLiteral",
-      "offset": 13716,
+      "offset": 13743,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 13739,
+      "offset": 13766,
       "length": 3,
       "value": "\"?\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 13829,
+      "offset": 13856,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14055,
+      "offset": 14082,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14068,
+      "offset": 14095,
       "length": 1,
       "value": "\" - error - id module nil\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14129,
+      "offset": 14156,
       "length": 36,
       "value": "\"api - push positions id module nil\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14187,
+      "offset": 14214,
       "length": 92,
       "value": "\"Error during the authentication, please check the mobile key provided. Stopping GeoUniq...\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14366,
+      "offset": 14402,
       "length": 7,
       "value": "\"descr\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14374,
+      "offset": 14410,
       "length": 33,
       "value": "\"Error during the authentication\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14584,
+      "offset": 14638,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14597,
+      "offset": 14651,
       "length": 1,
       "value": "\" - error - network unavailable\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14675,
+      "offset": 14729,
       "length": 30,
       "value": "\"server - network unavailable\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14727,
+      "offset": 14781,
       "length": 64,
       "value": "\"server - pushing positions, NO network available, still trying\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14826,
+      "offset": 14880,
       "length": 28,
       "value": "\"server - pushing locations\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14944,
+      "offset": 14998,
       "length": 52,
       "value": "\"Pushing \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 14971,
+      "offset": 15025,
       "length": 9,
       "value": "\" locations to the server\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15017,
+      "offset": 15071,
       "length": 38,
       "value": "\"sending \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15044,
+      "offset": 15098,
       "length": 9,
       "value": "\" locations\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15410,
+      "offset": 15464,
       "length": 49,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15423,
+      "offset": 15477,
       "length": 1,
       "value": "\" - append request to queue of calls\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15548,
+      "offset": 15602,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15582,
+      "offset": 15636,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15716,
+      "offset": 15770,
       "length": 29,
       "value": "\"server - making api request\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15797,
+      "offset": 15851,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15831,
+      "offset": 15885,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15914,
+      "offset": 15968,
       "length": 53,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15927,
+      "offset": 15981,
       "length": 1,
       "value": "\" - idCall: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15947,
+      "offset": 16001,
       "length": 1,
       "value": "\" - request - \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 15966,
+      "offset": 16020,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 16360,
+      "offset": 16414,
       "length": 52,
       "value": "\"Error requesting location history, returning error\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 16770,
+      "offset": 16824,
       "length": 10,
       "value": "\"\/devices\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 16783,
+      "offset": 16837,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 16817,
+      "offset": 16871,
       "length": 97,
       "value": "\"\/positions?limit=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 16843,
+      "offset": 16897,
       "length": 1,
       "value": "\"&offset=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 16860,
+      "offset": 16914,
       "length": 1,
       "value": "\"&from=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 16879,
+      "offset": 16933,
       "length": 1,
       "value": "\"&to=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 16894,
+      "offset": 16948,
       "length": 1,
       "value": "\"&sort=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 16913,
+      "offset": 16967,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 17232,
+      "offset": 17286,
       "length": 42,
       "value": "\"Error requesting groups, returning error\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 17431,
+      "offset": 17485,
       "length": 35,
       "value": "\"\/project\/groups?name=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 17465,
+      "offset": 17519,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 17519,
+      "offset": 17573,
       "length": 19,
       "value": "\"&offset=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 17537,
+      "offset": 17591,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 17599,
+      "offset": 17653,
       "length": 27,
       "value": "\"&labels.contains=\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 17625,
+      "offset": 17679,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 17996,
+      "offset": 18050,
       "length": 51,
       "value": "\"Error requesting register Device, returning error\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 18354,
+      "offset": 18408,
       "length": 10,
       "value": "\"\/devices\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 18367,
+      "offset": 18421,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 18373,
+      "offset": 18427,
       "length": 13,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 18385,
+      "offset": 18439,
       "length": 5,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 18389,
+      "offset": 18443,
       "length": 9,
       "value": "\"\/groups\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 18737,
+      "offset": 18791,
       "length": 52,
       "value": "\"Error requesting location history, returning error\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 19091,
+      "offset": 19145,
       "length": 7,
       "value": "\"items\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 19175,
+      "offset": 19229,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 19209,
+      "offset": 19263,
       "length": 20,
       "value": "\"\/motion-activities\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 19252,
+      "offset": 19306,
       "length": 20,
       "value": "\"pushing to: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/ModuleRegisteredConn.swift",
       "kind": "StringLiteral",
-      "offset": 19271,
+      "offset": 19325,
       "length": 2,
       "value": "\"\""
     },
@@ -104499,539 +104485,553 @@
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 1684,
-      "length": 46,
+      "offset": 1820,
+      "length": 14,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 1697,
-      "length": 1,
-      "value": "\" - typeTrigger: \""
-    },
-    {
-      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1729,
+      "offset": 1833,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 1873,
+      "offset": 2012,
+      "length": 46,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2025,
+      "length": 1,
+      "value": "\" - typeTrigger: \""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2057,
+      "length": 19,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2201,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 1886,
+      "offset": 2214,
       "length": 1,
       "value": "\" - before updating: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 1942,
+      "offset": 2270,
       "length": 19,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2042,
+      "offset": 2370,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2065,
+      "offset": 2393,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2198,
+      "offset": 2526,
       "length": 29,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2211,
+      "offset": 2539,
       "length": 1,
       "value": "\" - area updated\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2321,
+      "offset": 2649,
       "length": 29,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2334,
+      "offset": 2662,
       "length": 1,
       "value": "\" - area updated\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2553,
+      "offset": 2881,
       "length": 70,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2566,
+      "offset": 2894,
       "length": 1,
       "value": "\" - after updating: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2621,
+      "offset": 2949,
       "length": 19,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2721,
+      "offset": 3049,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2744,
+      "offset": 3072,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2920,
+      "offset": 3248,
       "length": 46,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2933,
+      "offset": 3261,
       "length": 1,
       "value": "\" - typeTrigger: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 2965,
+      "offset": 3293,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 3388,
+      "offset": 3716,
       "length": 26,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 3401,
+      "offset": 3729,
       "length": 1,
       "value": "\" - id: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 3413,
+      "offset": 3741,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 3725,
+      "offset": 4053,
       "length": 52,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 3738,
+      "offset": 4066,
       "length": 1,
       "value": "\" - new trigger: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 3776,
+      "offset": 4104,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 3969,
+      "offset": 4297,
       "length": 69,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 3982,
+      "offset": 4310,
       "length": 1,
       "value": "\" - after setting: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4036,
+      "offset": 4364,
       "length": 19,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4136,
+      "offset": 4464,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4159,
+      "offset": 4487,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4405,
+      "offset": 4733,
       "length": 32,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4418,
+      "offset": 4746,
       "length": 1,
       "value": "\" - with id: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4435,
+      "offset": 4763,
       "length": 19,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4708,
+      "offset": 5036,
       "length": 70,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4721,
+      "offset": 5049,
       "length": 1,
       "value": "\" - after removing: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4776,
+      "offset": 5104,
       "length": 19,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4876,
+      "offset": 5204,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 4899,
+      "offset": 5227,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 5260,
+      "offset": 5588,
       "length": 74,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 5273,
+      "offset": 5601,
       "length": 1,
       "value": "\" - TriggerManager not started, discard Tracker update - Stop\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 5623,
+      "offset": 5951,
       "length": 70,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 5636,
+      "offset": 5964,
       "length": 1,
       "value": "\" - TriggerManager not started, discard LOI update - Stop\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 5757,
+      "offset": 6085,
       "length": 72,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 5770,
+      "offset": 6098,
       "length": 1,
       "value": "\" - location of Interest: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 5828,
+      "offset": 6156,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 6836,
+      "offset": 7164,
       "length": 60,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 6849,
+      "offset": 7177,
       "length": 1,
       "value": "\" - evaluating trigger: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 6894,
+      "offset": 7222,
       "length": 19,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7030,
+      "offset": 7358,
       "length": 58,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7043,
+      "offset": 7371,
       "length": 1,
       "value": "\" - Trigger expired, adding it to remove list\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7254,
+      "offset": 7582,
       "length": 95,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7267,
+      "offset": 7595,
       "length": 1,
       "value": "\" - All conditions are satisfied, added to triggered list, The status is triggered\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7463,
+      "offset": 7791,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7476,
+      "offset": 7804,
       "length": 1,
       "value": "\" - The status is NOT triggered\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7569,
+      "offset": 7897,
       "length": 122,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7582,
+      "offset": 7910,
       "length": 1,
       "value": "\" - Remove trigger:\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7624,
+      "offset": 7952,
       "length": 1,
       "value": "\", before delete triggers are: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7690,
+      "offset": 8018,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7932,
+      "offset": 8260,
       "length": 71,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 7945,
+      "offset": 8273,
       "length": 1,
       "value": "\" - after delete are: \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8002,
+      "offset": 8330,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8236,
+      "offset": 8564,
       "length": 40,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8249,
+      "offset": 8577,
       "length": 1,
       "value": "\" - new triggers stored are\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8432,
+      "offset": 8760,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8445,
+      "offset": 8773,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8469,
+      "offset": 8797,
       "length": 19,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8545,
+      "offset": 8873,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8581,
+      "offset": 8909,
       "length": 75,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8594,
+      "offset": 8922,
       "length": 1,
       "value": "\" - Delivering \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8646,
+      "offset": 8974,
       "length": 8,
       "value": "\" triggers\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8815,
+      "offset": 9143,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 8828,
+      "offset": 9156,
       "length": 1,
       "value": "\" - no trigger to deliver\""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 9274,
+      "offset": 9602,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 9390,
+      "offset": 9718,
       "length": 49,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 9429,
+      "offset": 9757,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/paolodonato\/Documents\/dev\/ios-sdk\/GeoUniq\/TriggerManager.swift",
       "kind": "StringLiteral",
-      "offset": 9438,
+      "offset": 9766,
       "length": 1,
       "value": "\"\""
     },
