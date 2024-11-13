@@ -1,21 +1,24 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
-// swift-module-flags: -target arm64-apple-ios10.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name GeoUniq
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
+// swift-module-flags: -target arm64-apple-ios10.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name GeoUniq
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AdSupport
 import AppTrackingTransparency
 import CoreData
 import CoreLocation
+import DeveloperToolsSupport
 import Dispatch
 import Foundation
 @_exported import GeoUniq
 import MessageUI
 import MobileCoreServices
 import Swift
+import SwiftUI
 import SystemConfiguration
 import UIKit
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 public enum AFError : Swift.Error {
   public enum ParameterEncodingFailureReason {
     case missingURL
@@ -506,6 +509,7 @@ extension CoreLocation.CLLocation : PersistenceProtocolObject {
   public typealias returnType = CoreLocation.CLLocation
   public static func decodeJsonObject(json: JSON) -> CoreLocation.CLLocation?
   public func encodeJsonObject() -> JSON?
+  @available(iOS 2.0, *)
   public typealias DecodableType = CoreLocation.CLLocation
 }
 extension Foundation.NSError : PersistenceProtocolObject {
@@ -1055,7 +1059,7 @@ open class SessionManager {
   open func stream(with netService: Foundation.NetService) -> StreamRequest
 }
 extension UIKit.UIAlertController {
-  @_Concurrency.MainActor(unsafe) public func showPopUp()
+  @_Concurrency.MainActor @preconcurrency public func showPopUp()
 }
 public protocol URLStringConvertible {
   var urlString: Swift.String { get }

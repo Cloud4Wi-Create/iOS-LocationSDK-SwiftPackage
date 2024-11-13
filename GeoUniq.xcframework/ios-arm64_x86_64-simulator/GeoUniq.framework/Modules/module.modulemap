@@ -1,7 +1,7 @@
 framework module GeoUniq {
   umbrella header "GeoUniq.h"
-
   export *
+
   module * { export * }
 }
 
